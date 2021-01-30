@@ -5,7 +5,7 @@
   <img align="left" alt="SirOgcar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<br>
+<br><br>
 
 :hatching_chick: Mis estadísticas
 <br>
