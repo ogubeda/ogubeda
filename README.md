@@ -1,1 +1,3 @@
-Hi, I'm Oscar. I am a Web Developer From Spain :es:
+# Hola! Soy Óscar.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogubeda)](https://github.com/ogubeda/github-readme-stats)
